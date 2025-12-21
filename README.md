@@ -11,6 +11,8 @@ Bei geringerer Belastung erfolgt eine sanfte, kürzere Harmonisierung.
 
 Sobald das Schwingungsmuster des Objekts bereinigt ist und das energetische Gleichgewicht wiederhergestellt wurde, beendet die App den Vorgang mit einem akustischen Signal.
 
+
+
 Wirkungen und Eigenschaften der Orgonenergie:
 (Quelle: https://jentschura-shop.ch)
 Im Verlag Zweitausendeins erschien im Jahre 1995 das Buch "Der Orgonakkumulator" von James deMaeo in deutscher Sprache. In diesem Buch werden verschiedenen Wirkungen und Eigenschaften der Orgonenergie beschrieben, die experimentell nachgewiesen wurden:
