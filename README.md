@@ -1,5 +1,6 @@
 # Hildegard Orgon-Akkumulator App
 https://fusslderechte.github.io/Hildegard-Orgon-Akkumulator-App/
+
 Verwandeln Sie Ihr Smartphone in ein aktives Energiefeld.
 Diese Anwendung nutzt die bio-elektrischen Kapazitäten Ihres Geräts, um das Prinzip des klassischen Orgon-Akkumulators digital zu replizieren. Sie dient zur direkten energetischen Reinigung von Gegenständen.
 Die Anwendung ist intuitiv:
